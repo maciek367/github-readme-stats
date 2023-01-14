@@ -1,3 +1,8 @@
+#### the same project but I had to host it by myself on Vercel due to the issue with too many PAT requests on the Anuraghazra's site
+ so it's forked
+
+
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
