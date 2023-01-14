@@ -1,6 +1,5 @@
-#### the same project but I had to host it by myself on Vercel due to the issue with too many PAT requests on the Anuraghazra's site
- so it's forked
-
+# The same project but I had to host it on Vercel due to the issue with too many PAT requests on the Anuraghazra's Vercel site, so it's forked
+<br>
 
 
 <p align="center">
